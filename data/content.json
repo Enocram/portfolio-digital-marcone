@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "title": "Ideias merecem sair do papel.",
+    "subtitle": "Transformamos conhecimento, criatividade e propósito em experiências, projetos e soluções digitais.",
+    "btnPrimary": "Conhecer soluções",
+    "btnSecondary": "Conversar comigo"
+  },
+  "solutions": {
+    "title": "Talvez eu possa ajudar você com isso",
+    "items": [
+      { "name": "Educação", "description": "Projetos, formações e recursos pedagógicos." },
+      { "name": "Inteligência Artificial", "description": "Transformação de ideias em produtos digitais." },
+      { "name": "Aplicativos e Plataformas", "description": "Concepção e arquitetura de soluções digitais." },
+      { "name": "Escrita e Conteúdo", "description": "Livros, materiais, roteiros e projetos autorais." }
+    ]
+  },
+  "projects": {
+    "title": "Algumas construções",
+    "items": [
+      {
+        "name": "Método EduNEXUS™",
+        "description": "Uma metodologia que transforma ideias em soluções digitais por meio da integração entre educação, inteligência artificial e propósito humano.",
+        "image": "assets/img/metodo-edunexus.png",
+        "url": "https://seudominio.com/projeto-edunexus"
+      },
+      {
+        "name": "EduNEXUS",
+        "description": "Ecossistema educacional desenvolvido para apoiar professores, ampliar possibilidades de aprendizagem e conectar tecnologia ao propósito pedagógico.",
+        "image": "assets/img/edunexus-pwa.png",
+        "url": "https://enocram.github.io/EduNEXUS/"
+      },
+      {
+        "name": "PROMPT - Uma Porta Se Abriu",
+        "description": "Uma expressão da minha atuação como escritor e criador, transformando ideias em experiências que inspiram reflexão e descoberta.",
+        "image": "assets/img/prompt-livro.png",
+        "url": "https://www.amazon.com.br/Prompt-Uma-Porta-Se-Abriu/dp/6501864348/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2OF4XESFWECMT&dib=eyJ2IjoiMSJ9.GbL51VFcEn8ZZeOSQeqWOA.VXmicNag33PdxMPwoKxMhhQ3ydVdLoS76y17wjl-Lb4&dib_tag=se&keywords=prompt+uma+porta+se+abriu&qid=1781285350&s=books&sprefix=prompt+uma+porta+se+a%2Cstripbooks%2C256&sr=1-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+      }
+    ]
+  },
+  "principles": {
+    "title": "Mais do que ferramentas",
+    "items": [
+      { "name": "Humanização", "description": "Tecnologia a serviço das pessoas.", "icon": "🧠" },
+      { "name": "Educação", "description": "Aprendizagem significativa e autoral.", "icon": "📚" },
+      { "name": "Criatividade", "description": "Design original e solução de problemas.", "icon": "✨" },
+      { "name": "Inovação", "description": "O novo sem perder o propósito.", "icon": "🚀" }
+    ]
+  },
+  "about": {
+    "title": "Quem é Marcone?",
+    "image": "assets/img/marcone.png",
+    "bio": "Sou pedagogo, escritor e criador digital. Ao longo de mais de 15 anos, venho conectando educação, arte e tecnologia para desenvolver projetos que aproximam pessoas, ampliam possibilidades e transformam ideias em legado. Minha jornada é marcada por uma paixão por criar soluções que sejam ao mesmo tempo inovadoras e profundas, sempre com o objetivo de inspirar e empoderar aqueles que buscam aprender, crescer e deixar sua marca no mundo."
+  },
+  "contact": {
+    "title": "Toda grande construção começa com uma conversa.",
+    "message": "Vamos trocar ideias sobre seu projeto, formação ou próximo livro.",
+    "buttonText": "WhatsApp",
+    "whatsappLink": "https://wa.link/kuictk"
+  },
+  "footer": {
+    "name": "Marcone Arruda",
+    "role": "Criador de Soluções Educacionais e Digitais",
+    "social": [
+      { "platform": "LinkedIn", "url": "https://linkedin.com/in/marconearruda" },
+      { "platform": "Instagram", "url": "https://www.instagram.com/marconearruda.autor/?__pwa=1#" },
+      { "platform": "GitHub", "url": "https://github.com" }
+    ],
+    "copyright": "© Marcone Arruda ·"
+  }
+}
